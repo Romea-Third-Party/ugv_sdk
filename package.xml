@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package>
+<package format="3">
   <name>ugv_sdk</name>
   <version>0.1.6</version>
   <description>Weston Robot Platform SDK</description>
