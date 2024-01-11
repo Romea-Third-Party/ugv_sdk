@@ -86,7 +86,7 @@ endif()
 find_package(Threads REQUIRED)
 
 # add sdk main library
-add_library(${PROJECT_NAME}
+add_library(${PROJECT_NAME} SHARED
     ########################
     ## async_port from weston robot
     src/async_port/async_serial.cpp
